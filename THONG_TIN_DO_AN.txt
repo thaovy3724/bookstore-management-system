@@ -1,0 +1,37 @@
+TÊN ĐỀ TÀI: XÂY DỰNG HỆ THỐNG QUẢN LÝ MUA BÁN SÁCH TRỰC TUYẾN
+NHÓM BÁO CÁO: 09
+NHÓM LỚP: 02 - 01 (THỨ 2 TIẾT 6, 7)
+
+DANH SÁCH THÀNH VIÊN
+MÃ SV		HỌ TÊN				PHẦN TRĂM HOÀN THÀNH	TỶ LỆ ĐIỂM
+3122560018	Nguyễn Trọng Hiếu		100%			15,625%
+3122560029	Lê Ngọc Quỳnh Hương		100%			15,625%
+3122560030	Nguyễn Phạm Quỳnh Hương		100%			15,625%
+3121560091	Hồ Minh Toàn			85%			10,625%
+3122410444	Lâm Văn Tú			80%			10%
+3122560091	Lê Ngọc Thảo Vy			100%			15,625%
+3122410492	Trần Thị Như Ý			65%			8,125%
+3122560092	Trần Kim Yến			70%			8,75%
+
+====================================================================================
+HƯỚNG DẪN CÀI ĐẶT CHƯƠNG TRÌNH
+1. Import file quanlybansach.sql trong thư mục Database vào cơ sở dữ liệu.
+2. Copy thư mục Vinabook trong thư mục SourceCode vào xampp/htdocs (hoặc laragon/www nếu dùng Laragon).
+3. Truy cập trang mua hàng: localhost/vinabook/
+   Truy cập trang quản lý: localhost/vinabook/quantri
+
+TÀI KHOẢN ĐĂNG NHẬP
+	1. TÀI KHOẢN KHÁCH HÀNG
+		Email: quynhhuong.qh13@gmail.com
+		Password: Qhuong1312
+	2. TÀI KHOẢN QUẢN TRỊ (QUYỀN: CHỦ DOANH NGHIỆP)
+		Email: thaovy3724@gmail.com
+		Password: Vyle1234
+======================================================================================
+HƯỚNG DẪN SỬA LỖI KHÔNG TÌM THẤY PHÔNG CHỮ KHI SỬ DỤNG CHỨC NĂNG IN
+1. Vào thư mục tFPDF_duphong, copy tất cả thư mục và file bên trong.
+2. Truy cập thư mục SourceCode/Vinabook/inc/tfpdf và xóa tất cả file + thư mục có trong đó.
+3. Dán các thư mục và file đã copy vào trong thư mục này.
+4. Quay trở lại màn hình trang Quản lý, nhấn F5 (refresh) và nhấn nút in lần nữa.	
+
+
