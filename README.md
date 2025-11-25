@@ -13,7 +13,8 @@
 		
         Email: thaovy3724@gmail.com
 		Password: Vyle1234
-======================================================================================
+<hr>
+
 ### HƯỚNG DẪN SỬA LỖI KHÔNG TÌM THẤY PHÔNG CHỮ KHI SỬ DỤNG CHỨC NĂNG IN
 1. Vào thư mục tFPDF_duphong, copy tất cả thư mục và file bên trong.
 2. Truy cập thư mục SourceCode/Vinabook/inc/tfpdf và xóa tất cả file + thư mục có trong đó.
