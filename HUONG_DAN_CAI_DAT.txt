@@ -12,7 +12,7 @@ HƯỚNG DẪN CÀI ĐẶT CHƯƠNG TRÌNH
 TÀI KHOẢN ĐĂNG NHẬP
 	1. TÀI KHOẢN KHÁCH HÀNG
 		Email: quynhhuong.qh13@gmail.com
-		Password: Qhuong1312
+		Password: NPQH1312a@
 	2. TÀI KHOẢN QUẢN TRỊ (QUYỀN: CHỦ DOANH NGHIỆP)
 		Email: thaovy3724@gmail.com
 		Password: Vyle1234
