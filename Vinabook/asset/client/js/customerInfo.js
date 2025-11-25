@@ -87,7 +87,7 @@ const validateCurrentPassword = () => {
 const validateNewPassword = () => {
     let newPasswordIsValid = false;
     //Định dạng mật khẩu
-    const regexPassword = /^(?=.*[A-Z])(?=.*\d)(?=.*[@$!%*?&])[A-Za-z\d@$!%*?&]{8,}$/;
+    const regexPassword = /^(?=.*[A-Z])(?=.*\d)[A-Za-z\d\W]{8,}$/;
 
     if(newPassword.value.trim() === "") {
         errorMessageNewPassword.innerText = "Mật khẩu mới không thể để trống";
